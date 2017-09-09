@@ -1,0 +1,20 @@
+follows
+subscriptions
+donations
+VIPs who join? 
+
+- Each of those needs a UI
+- Have it all in one panel? 
+- Preview panel for test
+	- Sends test packet locally? 
+- Audio
+- Extra: colors and shit
+- Want to use ANTYHING to render it to web stuff for obs browser ext. 
+
+- shows URL to put into browser plugin, can edit it too. 
+
+Each of those features need to do receive/listen to the API call too. 
+
+Twitch API key. 
+
+come up with wireframes. probably just steal it from other editors. 
