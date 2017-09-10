@@ -18,3 +18,9 @@ Each of those features need to do receive/listen to the API call too.
 Twitch API key. 
 
 come up with wireframes. probably just steal it from other editors. 
+
+integrate donations and things from other streamsites. 
+
+problems this will solve: laggy and delayed toats/notifications. by accepting it locally it cuts out the middleman. 
+
+nice to haves: import/track loyalty. 
