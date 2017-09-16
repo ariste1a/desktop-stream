@@ -60,3 +60,5 @@ app.on('activate', function () {
 // code. You can also put them in separate files and require them here.
 var login = require('./lib/login.js'); 
 login.init(); 
+
+//send message that someone is following. use an interface and stub it out so that the client can test it locally. 
