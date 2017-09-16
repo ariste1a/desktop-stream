@@ -59,13 +59,7 @@ app.on('activate', function () {
 // In this file you can include the rest of your app's specific main process
 // code. You can also put them in separate files and require them here.
 var login = require('./lib/login.js'); 
-<<<<<<< HEAD
-login.init(); 
-
-//send message that someone is following. use an interface and stub it out so that the client can test it locally. 
-=======
 var ws = login.init(); 
 
 var followers = require('./lib/followers.js'); 
 var follows = followers.init((data) => { console.log(data)}); 
->>>>>>> 4417fca719ad5c1ab21b9161b431390309143615
